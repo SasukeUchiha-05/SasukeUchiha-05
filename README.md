@@ -2,9 +2,9 @@
 - 👀 I’m interested in ful-stack development and anime
 - 🌱 I’m currently learning Advanced python (DL)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Gmail or github
 - 😄 Pronouns: he
-- ⚡ Fun fact: I watch anime/read manga late into the night *blush*
+- ⚡ Fun fact: 
 
 <!---
 SasukeUchiha-05/SasukeUchiha-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

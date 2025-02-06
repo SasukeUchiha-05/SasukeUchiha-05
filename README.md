@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SasukeUchiha-05
-- 👀 I’m interested in ful-stack development and anime
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning Advanced python (DL)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail or github

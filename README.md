@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Django REST Framework and AI and ML/DL projects.<br>Im looking to collaborate on any MERNstack projects.<br>Im looking for help with Django REST framework.<br>Fun Fact: I am a very "sociable" person.<br>
+I am currently working on Django REST Framework and AI and ML/DL projects.<br>Im looking to collaborate on any Full stack projects.<br>Im looking for help with Django REST framework.<br>Fun Fact: I am a very "sociable" person.<br>
 
 
 ## 🌐 Socials:
